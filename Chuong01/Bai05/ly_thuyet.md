@@ -1,7 +1,4 @@
-Dưới đây là phần lý thuyết kèm ví dụ minh họa cho từng phần:
-
----
-
+Sử dụng hàm tốt hơn bằng giá trị mặc định
 ### 1. Chuyển đổi nhiệt độ cơ bản
 **Lý thuyết:**  
 Hàm chuyển đổi Celsius sang Fahrenheit sử dụng công thức `độ F = độ C * 1.8 + 32`.

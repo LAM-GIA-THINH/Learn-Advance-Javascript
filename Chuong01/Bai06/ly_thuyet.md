@@ -1,6 +1,4 @@
-Dưới đây là phần lý thuyết kèm ví dụ minh họa chi tiết cho từng khái niệm:
-
----
+Hàm ngắn hơn bằng arrow func
 
 ### **Arrow Function (Hàm mũi tên)**
 *Là cách viết hàm ngắn gọn, được giới thiệu trong ES6.*
